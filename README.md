@@ -1,2 +1,2 @@
 # git_test
-test repo
+Hello my test repo
